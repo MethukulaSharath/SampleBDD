@@ -1,0 +1,1296 @@
+2018-07-10 15:26:24,990 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:26:24,991 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:26:24,991 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 15:26:24,991 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:26:24,991 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:26:24,991 INFO  [Log] New driver instantiated 
+2018-07-10 15:26:25,690 INFO  [Log] Excel sheet opened 
+2018-07-10 15:26:27,559 INFO  [Log] Web application launched successfully 
+2018-07-10 15:26:28,478 INFO  [Log] Registration button enabled 
+2018-07-10 15:26:28,478 INFO  [Log] Registration button Clicked 
+2018-07-10 15:26:29,715 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 15:26:29,715 INFO  [Log] X 
+2018-07-10 15:26:29,715 INFO  [Log] X 
+2018-07-10 15:26:29,715 INFO  [Log] X 
+2018-07-10 15:26:29,715 INFO  [Log] X 
+2018-07-10 15:48:42,695 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:48:42,701 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:48:42,701 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 15:48:42,701 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:48:42,701 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:48:42,701 INFO  [Log] New driver instantiated 
+2018-07-10 15:48:43,315 INFO  [Log] Excel sheet opened 
+2018-07-10 15:48:45,340 INFO  [Log] Web application launched successfully 
+2018-07-10 15:48:46,284 INFO  [Log] Registration button enabled 
+2018-07-10 15:48:46,284 INFO  [Log] Registration button Clicked 
+2018-07-10 15:48:46,396 INFO  [Log] Entered First Name 
+2018-07-10 15:48:46,475 INFO  [Log] Entered Last Name 
+2018-07-10 15:48:46,529 INFO  [Log] Entered Phone Number 
+2018-07-10 15:48:46,633 INFO  [Log] Entered User Mail 
+2018-07-10 15:48:46,732 INFO  [Log] Entered Address 
+2018-07-10 15:48:46,822 INFO  [Log] Entered Address2 
+2018-07-10 15:48:46,907 INFO  [Log] Entered City 
+2018-07-10 15:48:46,995 INFO  [Log] Entered State 
+2018-07-10 15:48:47,074 INFO  [Log] Entered Postal Code 
+2018-07-10 15:52:28,857 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:52:28,857 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:52:28,858 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 15:52:28,858 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:52:28,858 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:52:28,858 INFO  [Log] New driver instantiated 
+2018-07-10 15:52:29,718 INFO  [Log] Excel sheet opened 
+2018-07-10 15:52:31,882 INFO  [Log] Web application launched successfully 
+2018-07-10 15:52:32,870 INFO  [Log] Registration button enabled 
+2018-07-10 15:52:32,870 INFO  [Log] Registration button Clicked 
+2018-07-10 15:52:32,986 INFO  [Log] Entered First Name 
+2018-07-10 15:52:33,064 INFO  [Log] Entered Last Name 
+2018-07-10 15:52:50,630 INFO  [Log] Entered Phone Number 
+2018-07-10 15:52:52,830 INFO  [Log] Entered User Mail 
+2018-07-10 15:52:55,670 INFO  [Log] Entered Address 
+2018-07-10 15:52:57,032 INFO  [Log] Entered Address2 
+2018-07-10 15:52:58,251 INFO  [Log] Entered City 
+2018-07-10 15:52:59,410 INFO  [Log] Entered State 
+2018-07-10 15:53:02,410 INFO  [Log] Entered Postal Code 
+2018-07-10 15:56:28,710 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:56:28,714 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:56:28,714 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 15:56:28,714 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:56:28,714 INFO  [Log] **************************************************************************************** 
+2018-07-10 15:56:28,714 INFO  [Log] New driver instantiated 
+2018-07-10 15:56:29,330 INFO  [Log] Excel sheet opened 
+2018-07-10 15:56:31,224 INFO  [Log] Web application launched successfully 
+2018-07-10 15:56:32,183 INFO  [Log] Registration button enabled 
+2018-07-10 15:56:32,183 INFO  [Log] Registration button Clicked 
+2018-07-10 15:56:32,299 INFO  [Log] Entered First Name 
+2018-07-10 15:56:32,374 INFO  [Log] Entered Last Name 
+2018-07-10 15:56:32,476 INFO  [Log] Entered Phone Number 
+2018-07-10 15:56:32,583 INFO  [Log] Entered User Mail 
+2018-07-10 15:56:32,674 INFO  [Log] Entered Address 
+2018-07-10 15:56:32,761 INFO  [Log] Entered Address2 
+2018-07-10 15:56:32,849 INFO  [Log] Entered City 
+2018-07-10 15:56:32,936 INFO  [Log] Entered State 
+2018-07-10 15:56:33,009 INFO  [Log] Entered Postal Code 
+2018-07-10 15:56:33,193 INFO  [Log] Select Country 
+2018-07-10 15:56:33,300 INFO  [Log] Entered User name 
+2018-07-10 15:56:33,375 INFO  [Log] Entered Password 
+2018-07-10 15:56:33,453 INFO  [Log] Entered Confirm password 
+2018-07-10 15:56:33,453 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 15:56:33,453 INFO  [Log] X 
+2018-07-10 15:56:33,453 INFO  [Log] X 
+2018-07-10 15:56:33,453 INFO  [Log] X 
+2018-07-10 15:56:33,453 INFO  [Log] X 
+2018-07-10 16:37:18,934 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:37:18,934 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:37:18,934 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 16:37:18,934 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:37:18,934 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:38:49,411 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:38:49,411 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:38:49,411 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 16:38:49,411 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:38:49,411 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:40:19,074 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:40:19,079 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:40:19,082 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 16:40:19,085 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:40:19,088 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:53:00,821 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:53:00,821 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:53:00,821 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 16:53:00,821 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:53:00,821 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:53:04,366 INFO  [Log] New driver instantiated 
+2018-07-10 16:53:05,052 INFO  [Log] Excel sheet opened 
+2018-07-10 16:53:05,053 INFO  [Log] Read Excel sheet 
+2018-07-10 16:53:06,991 INFO  [Log] Web application launched successfully 
+2018-07-10 16:53:08,147 INFO  [Log] Registration button enabled 
+2018-07-10 16:53:08,148 INFO  [Log] Registration button Clicked 
+2018-07-10 16:53:08,153 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 16:53:08,439 INFO  [Log] Entered First Name 
+2018-07-10 16:53:08,570 INFO  [Log] Entered Last Name 
+2018-07-10 16:53:08,715 INFO  [Log] Entered Phone Number 
+2018-07-10 16:53:08,875 INFO  [Log] Entered User Mail 
+2018-07-10 16:53:09,009 INFO  [Log] Entered Address 
+2018-07-10 16:53:09,155 INFO  [Log] Entered Address2 
+2018-07-10 16:53:09,298 INFO  [Log] Entered City 
+2018-07-10 16:53:09,451 INFO  [Log] Entered State 
+2018-07-10 16:53:09,556 INFO  [Log] Entered Postal Code 
+2018-07-10 16:53:09,804 INFO  [Log] Select Country 
+2018-07-10 16:53:09,804 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 16:53:09,966 INFO  [Log] Entered User name 
+2018-07-10 16:53:10,076 INFO  [Log] Entered Password 
+2018-07-10 16:53:10,191 INFO  [Log] Entered Confirm password 
+2018-07-10 16:53:10,191 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 16:53:10,192 INFO  [Log] X 
+2018-07-10 16:53:10,192 INFO  [Log] X 
+2018-07-10 16:53:10,192 INFO  [Log] X 
+2018-07-10 16:53:10,192 INFO  [Log] X 
+2018-07-10 16:55:48,488 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 16:56:00,285 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:56:00,544 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              Cucumberjava       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 16:56:00,804 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:56:01,098 INFO  [Log] **************************************************************************************** 
+2018-07-10 16:56:12,966 INFO  [Log] New driver instantiated 
+2018-07-10 16:56:14,363 INFO  [Log] Excel sheet opened 
+2018-07-10 16:56:14,363 INFO  [Log] Read Excel sheet 
+2018-07-10 16:56:16,353 INFO  [Log] Web application launched successfully 
+2018-07-10 16:56:17,399 INFO  [Log] Registration button enabled 
+2018-07-10 16:56:17,399 INFO  [Log] Registration button Clicked 
+2018-07-10 16:56:17,405 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 16:56:17,646 INFO  [Log] Entered First Name 
+2018-07-10 16:56:17,764 INFO  [Log] Entered Last Name 
+2018-07-10 16:56:17,865 INFO  [Log] Entered Phone Number 
+2018-07-10 16:56:17,976 INFO  [Log] Entered User Mail 
+2018-07-10 16:56:18,111 INFO  [Log] Entered Address 
+2018-07-10 16:56:18,225 INFO  [Log] Entered Address2 
+2018-07-10 16:56:18,347 INFO  [Log] Entered City 
+2018-07-10 16:56:18,452 INFO  [Log] Entered State 
+2018-07-10 16:56:18,539 INFO  [Log] Entered Postal Code 
+2018-07-10 16:56:18,734 INFO  [Log] Select Country 
+2018-07-10 16:56:18,734 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 16:56:18,839 INFO  [Log] Entered User name 
+2018-07-10 16:56:18,918 INFO  [Log] Entered Password 
+2018-07-10 16:56:19,003 INFO  [Log] Entered Confirm password 
+2018-07-10 16:56:19,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 16:56:19,003 INFO  [Log] X 
+2018-07-10 16:56:19,003 INFO  [Log] X 
+2018-07-10 16:56:19,003 INFO  [Log] X 
+2018-07-10 16:56:19,003 INFO  [Log] X 
+2018-07-10 17:09:50,826 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:09:50,826 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:09:50,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:09:50,826 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:09:50,826 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:09:54,033 INFO  [Log] New driver instantiated 
+2018-07-10 17:09:54,510 INFO  [Log] Excel sheet opened 
+2018-07-10 17:09:54,510 INFO  [Log] Read Excel sheet 
+2018-07-10 17:09:56,487 INFO  [Log] Web application launched successfully 
+2018-07-10 17:09:57,587 INFO  [Log] Registration button enabled 
+2018-07-10 17:09:57,587 INFO  [Log] Registration button Clicked 
+2018-07-10 17:09:57,590 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:09:57,769 INFO  [Log] Entered First Name 
+2018-07-10 17:09:57,882 INFO  [Log] Entered Last Name 
+2018-07-10 17:09:58,026 INFO  [Log] Entered Phone Number 
+2018-07-10 17:09:58,186 INFO  [Log] Entered User Mail 
+2018-07-10 17:09:58,352 INFO  [Log] Entered Address 
+2018-07-10 17:09:58,489 INFO  [Log] Entered Address2 
+2018-07-10 17:09:58,639 INFO  [Log] Entered City 
+2018-07-10 17:09:58,757 INFO  [Log] Entered State 
+2018-07-10 17:09:58,856 INFO  [Log] Entered Postal Code 
+2018-07-10 17:09:59,052 INFO  [Log] Select Country 
+2018-07-10 17:09:59,052 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:09:59,161 INFO  [Log] Entered User name 
+2018-07-10 17:09:59,251 INFO  [Log] Entered Password 
+2018-07-10 17:09:59,343 INFO  [Log] Entered Confirm password 
+2018-07-10 17:09:59,343 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:09:59,343 INFO  [Log] X 
+2018-07-10 17:09:59,343 INFO  [Log] X 
+2018-07-10 17:09:59,343 INFO  [Log] X 
+2018-07-10 17:09:59,343 INFO  [Log] X 
+2018-07-10 17:15:14,451 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:15:14,451 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:14,451 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:15:14,451 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:14,451 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:17,498 INFO  [Log] New driver instantiated 
+2018-07-10 17:15:18,070 INFO  [Log] Excel sheet opened 
+2018-07-10 17:15:18,070 INFO  [Log] Read Excel sheet 
+2018-07-10 17:15:20,027 INFO  [Log] Web application launched successfully 
+2018-07-10 17:15:21,042 INFO  [Log] Registration button enabled 
+2018-07-10 17:15:21,043 INFO  [Log] Registration button Clicked 
+2018-07-10 17:15:21,044 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:15:21,278 INFO  [Log] Entered First Name 
+2018-07-10 17:15:21,427 INFO  [Log] Entered Last Name 
+2018-07-10 17:15:21,611 INFO  [Log] Entered Phone Number 
+2018-07-10 17:15:21,727 INFO  [Log] Entered User Mail 
+2018-07-10 17:15:21,825 INFO  [Log] Entered Address 
+2018-07-10 17:15:21,947 INFO  [Log] Entered Address2 
+2018-07-10 17:15:22,054 INFO  [Log] Entered City 
+2018-07-10 17:15:22,159 INFO  [Log] Entered State 
+2018-07-10 17:15:22,259 INFO  [Log] Entered Postal Code 
+2018-07-10 17:15:22,468 INFO  [Log] Select Country 
+2018-07-10 17:15:22,468 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:15:22,618 INFO  [Log] Entered User name 
+2018-07-10 17:15:22,733 INFO  [Log] Entered Password 
+2018-07-10 17:15:22,837 INFO  [Log] Entered Confirm password 
+2018-07-10 17:15:22,837 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:15:22,837 INFO  [Log] X 
+2018-07-10 17:15:22,837 INFO  [Log] X 
+2018-07-10 17:15:22,837 INFO  [Log] X 
+2018-07-10 17:15:22,837 INFO  [Log] X 
+2018-07-10 17:15:50,071 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:15:50,071 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:50,072 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:15:50,072 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:50,072 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:15:53,302 INFO  [Log] New driver instantiated 
+2018-07-10 17:15:54,159 INFO  [Log] Excel sheet opened 
+2018-07-10 17:15:54,159 INFO  [Log] Read Excel sheet 
+2018-07-10 17:15:56,118 INFO  [Log] Web application launched successfully 
+2018-07-10 17:15:57,239 INFO  [Log] Registration button enabled 
+2018-07-10 17:15:57,240 INFO  [Log] Registration button Clicked 
+2018-07-10 17:15:57,242 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:15:57,470 INFO  [Log] Entered First Name 
+2018-07-10 17:15:57,577 INFO  [Log] Entered Last Name 
+2018-07-10 17:15:57,711 INFO  [Log] Entered Phone Number 
+2018-07-10 17:15:57,853 INFO  [Log] Entered User Mail 
+2018-07-10 17:15:57,959 INFO  [Log] Entered Address 
+2018-07-10 17:15:58,092 INFO  [Log] Entered Address2 
+2018-07-10 17:15:58,211 INFO  [Log] Entered City 
+2018-07-10 17:15:58,340 INFO  [Log] Entered State 
+2018-07-10 17:15:58,441 INFO  [Log] Entered Postal Code 
+2018-07-10 17:15:58,647 INFO  [Log] Select Country 
+2018-07-10 17:15:58,647 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:15:58,757 INFO  [Log] Entered User name 
+2018-07-10 17:15:58,848 INFO  [Log] Entered Password 
+2018-07-10 17:15:58,958 INFO  [Log] Entered Confirm password 
+2018-07-10 17:15:58,958 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:15:58,958 INFO  [Log] X 
+2018-07-10 17:15:58,958 INFO  [Log] X 
+2018-07-10 17:15:58,958 INFO  [Log] X 
+2018-07-10 17:15:58,958 INFO  [Log] X 
+2018-07-10 17:16:16,630 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:16:16,631 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:16:16,631 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:16:16,631 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:16:16,631 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:16:19,622 INFO  [Log] New driver instantiated 
+2018-07-10 17:16:20,197 INFO  [Log] Excel sheet opened 
+2018-07-10 17:16:20,197 INFO  [Log] Read Excel sheet 
+2018-07-10 17:16:22,141 INFO  [Log] Web application launched successfully 
+2018-07-10 17:16:24,156 INFO  [Log] Registration button enabled 
+2018-07-10 17:16:24,156 INFO  [Log] Registration button Clicked 
+2018-07-10 17:16:24,157 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:16:24,358 INFO  [Log] Entered First Name 
+2018-07-10 17:16:24,457 INFO  [Log] Entered Last Name 
+2018-07-10 17:16:24,589 INFO  [Log] Entered Phone Number 
+2018-07-10 17:16:24,739 INFO  [Log] Entered User Mail 
+2018-07-10 17:16:24,881 INFO  [Log] Entered Address 
+2018-07-10 17:16:25,020 INFO  [Log] Entered Address2 
+2018-07-10 17:16:25,128 INFO  [Log] Entered City 
+2018-07-10 17:16:25,233 INFO  [Log] Entered State 
+2018-07-10 17:16:25,336 INFO  [Log] Entered Postal Code 
+2018-07-10 17:16:25,558 INFO  [Log] Select Country 
+2018-07-10 17:16:25,558 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:16:25,684 INFO  [Log] Entered User name 
+2018-07-10 17:16:25,763 INFO  [Log] Entered Password 
+2018-07-10 17:16:25,847 INFO  [Log] Entered Confirm password 
+2018-07-10 17:16:25,848 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:16:25,848 INFO  [Log] X 
+2018-07-10 17:16:25,848 INFO  [Log] X 
+2018-07-10 17:16:25,848 INFO  [Log] X 
+2018-07-10 17:16:25,848 INFO  [Log] X 
+2018-07-10 17:17:53,481 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:17:53,481 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:17:53,483 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:17:53,483 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:17:53,483 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:17:56,599 INFO  [Log] New driver instantiated 
+2018-07-10 17:17:57,315 INFO  [Log] Excel sheet opened 
+2018-07-10 17:17:57,315 INFO  [Log] Read Excel sheet 
+2018-07-10 17:17:59,263 INFO  [Log] Web application launched successfully 
+2018-07-10 17:18:00,273 INFO  [Log] Registration button enabled 
+2018-07-10 17:18:00,273 INFO  [Log] Registration button Clicked 
+2018-07-10 17:18:00,273 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:18:00,409 INFO  [Log] Entered First Name 
+2018-07-10 17:18:00,506 INFO  [Log] Entered Last Name 
+2018-07-10 17:18:00,636 INFO  [Log] Entered Phone Number 
+2018-07-10 17:18:00,765 INFO  [Log] Entered User Mail 
+2018-07-10 17:18:00,916 INFO  [Log] Entered Address 
+2018-07-10 17:18:01,037 INFO  [Log] Entered Address2 
+2018-07-10 17:18:01,156 INFO  [Log] Entered City 
+2018-07-10 17:18:01,296 INFO  [Log] Entered State 
+2018-07-10 17:18:01,404 INFO  [Log] Entered Postal Code 
+2018-07-10 17:18:01,635 INFO  [Log] Select Country 
+2018-07-10 17:18:01,635 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:18:01,778 INFO  [Log] Entered User name 
+2018-07-10 17:18:01,884 INFO  [Log] Entered Password 
+2018-07-10 17:18:01,991 INFO  [Log] Entered Confirm password 
+2018-07-10 17:18:01,991 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:18:01,991 INFO  [Log] X 
+2018-07-10 17:18:01,991 INFO  [Log] X 
+2018-07-10 17:18:01,992 INFO  [Log] X 
+2018-07-10 17:18:01,992 INFO  [Log] X 
+2018-07-10 17:18:43,058 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:18:43,058 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:18:43,058 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:18:43,058 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:18:43,058 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:18:46,001 INFO  [Log] New driver instantiated 
+2018-07-10 17:18:46,878 INFO  [Log] Excel sheet opened 
+2018-07-10 17:18:46,878 INFO  [Log] Read Excel sheet 
+2018-07-10 17:18:48,810 INFO  [Log] Web application launched successfully 
+2018-07-10 17:18:49,844 INFO  [Log] Registration button enabled 
+2018-07-10 17:18:49,844 INFO  [Log] Registration button Clicked 
+2018-07-10 17:18:49,847 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:18:50,036 INFO  [Log] Entered First Name 
+2018-07-10 17:18:50,121 INFO  [Log] Entered Last Name 
+2018-07-10 17:18:50,236 INFO  [Log] Entered Phone Number 
+2018-07-10 17:18:50,367 INFO  [Log] Entered User Mail 
+2018-07-10 17:18:50,521 INFO  [Log] Entered Address 
+2018-07-10 17:18:50,653 INFO  [Log] Entered Address2 
+2018-07-10 17:18:50,775 INFO  [Log] Entered City 
+2018-07-10 17:18:50,876 INFO  [Log] Entered State 
+2018-07-10 17:18:50,980 INFO  [Log] Entered Postal Code 
+2018-07-10 17:18:51,179 INFO  [Log] Select Country 
+2018-07-10 17:18:51,179 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:18:51,320 INFO  [Log] Entered User name 
+2018-07-10 17:18:51,436 INFO  [Log] Entered Password 
+2018-07-10 17:18:51,552 INFO  [Log] Entered Confirm password 
+2018-07-10 17:18:51,552 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:18:51,552 INFO  [Log] X 
+2018-07-10 17:18:51,552 INFO  [Log] X 
+2018-07-10 17:18:51,552 INFO  [Log] X 
+2018-07-10 17:18:51,552 INFO  [Log] X 
+2018-07-10 17:20:38,798 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:20:38,798 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:20:38,798 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:20:38,798 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:20:38,798 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:20:41,682 INFO  [Log] New driver instantiated 
+2018-07-10 17:20:42,302 INFO  [Log] Excel sheet opened 
+2018-07-10 17:20:42,302 INFO  [Log] Read Excel sheet 
+2018-07-10 17:20:44,364 INFO  [Log] Web application launched successfully 
+2018-07-10 17:20:45,350 INFO  [Log] Registration button enabled 
+2018-07-10 17:20:45,350 INFO  [Log] Registration button Clicked 
+2018-07-10 17:20:45,352 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:20:45,536 INFO  [Log] Entered First Name 
+2018-07-10 17:20:45,668 INFO  [Log] Entered Last Name 
+2018-07-10 17:20:45,787 INFO  [Log] Entered Phone Number 
+2018-07-10 17:20:45,953 INFO  [Log] Entered User Mail 
+2018-07-10 17:20:46,065 INFO  [Log] Entered Address 
+2018-07-10 17:20:46,199 INFO  [Log] Entered Address2 
+2018-07-10 17:20:46,332 INFO  [Log] Entered City 
+2018-07-10 17:20:46,460 INFO  [Log] Entered State 
+2018-07-10 17:20:46,605 INFO  [Log] Entered Postal Code 
+2018-07-10 17:20:46,848 INFO  [Log] Select Country 
+2018-07-10 17:20:46,848 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:20:46,972 INFO  [Log] Entered User name 
+2018-07-10 17:20:47,053 INFO  [Log] Entered Password 
+2018-07-10 17:20:47,141 INFO  [Log] Entered Confirm password 
+2018-07-10 17:20:47,141 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:20:47,141 INFO  [Log] X 
+2018-07-10 17:20:47,141 INFO  [Log] X 
+2018-07-10 17:20:47,141 INFO  [Log] X 
+2018-07-10 17:20:47,141 INFO  [Log] X 
+2018-07-10 17:21:24,580 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:21:24,580 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:21:24,580 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:21:24,580 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:21:24,580 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:21:27,580 INFO  [Log] New driver instantiated 
+2018-07-10 17:21:28,328 INFO  [Log] Excel sheet opened 
+2018-07-10 17:21:28,328 INFO  [Log] Read Excel sheet 
+2018-07-10 17:21:30,294 INFO  [Log] Web application launched successfully 
+2018-07-10 17:21:31,408 INFO  [Log] Registration button enabled 
+2018-07-10 17:21:31,408 INFO  [Log] Registration button Clicked 
+2018-07-10 17:21:31,410 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:21:31,581 INFO  [Log] Entered First Name 
+2018-07-10 17:21:31,674 INFO  [Log] Entered Last Name 
+2018-07-10 17:21:31,795 INFO  [Log] Entered Phone Number 
+2018-07-10 17:21:31,929 INFO  [Log] Entered User Mail 
+2018-07-10 17:21:32,086 INFO  [Log] Entered Address 
+2018-07-10 17:21:32,216 INFO  [Log] Entered Address2 
+2018-07-10 17:21:32,339 INFO  [Log] Entered City 
+2018-07-10 17:21:32,462 INFO  [Log] Entered State 
+2018-07-10 17:21:32,574 INFO  [Log] Entered Postal Code 
+2018-07-10 17:21:32,790 INFO  [Log] Select Country 
+2018-07-10 17:21:32,790 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:21:32,932 INFO  [Log] Entered User name 
+2018-07-10 17:21:33,044 INFO  [Log] Entered Password 
+2018-07-10 17:21:33,150 INFO  [Log] Entered Confirm password 
+2018-07-10 17:21:33,150 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:21:33,150 INFO  [Log] X 
+2018-07-10 17:21:33,150 INFO  [Log] X 
+2018-07-10 17:21:33,151 INFO  [Log] X 
+2018-07-10 17:21:33,151 INFO  [Log] X 
+2018-07-10 17:22:11,145 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:22:11,145 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:22:11,145 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:22:11,145 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:22:11,145 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:22:14,398 INFO  [Log] New driver instantiated 
+2018-07-10 17:22:14,905 INFO  [Log] Excel sheet opened 
+2018-07-10 17:22:14,906 INFO  [Log] Read Excel sheet 
+2018-07-10 17:22:17,100 INFO  [Log] Web application launched successfully 
+2018-07-10 17:22:18,322 INFO  [Log] Registration button enabled 
+2018-07-10 17:22:18,323 INFO  [Log] Registration button Clicked 
+2018-07-10 17:22:18,328 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:22:18,579 INFO  [Log] Entered First Name 
+2018-07-10 17:22:18,698 INFO  [Log] Entered Last Name 
+2018-07-10 17:22:18,815 INFO  [Log] Entered Phone Number 
+2018-07-10 17:22:18,948 INFO  [Log] Entered User Mail 
+2018-07-10 17:22:19,054 INFO  [Log] Entered Address 
+2018-07-10 17:22:19,166 INFO  [Log] Entered Address2 
+2018-07-10 17:22:19,262 INFO  [Log] Entered City 
+2018-07-10 17:22:19,371 INFO  [Log] Entered State 
+2018-07-10 17:22:19,465 INFO  [Log] Entered Postal Code 
+2018-07-10 17:22:19,654 INFO  [Log] Select Country 
+2018-07-10 17:22:19,654 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:22:19,765 INFO  [Log] Entered User name 
+2018-07-10 17:22:19,842 INFO  [Log] Entered Password 
+2018-07-10 17:22:19,926 INFO  [Log] Entered Confirm password 
+2018-07-10 17:22:19,926 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:22:19,926 INFO  [Log] X 
+2018-07-10 17:22:19,926 INFO  [Log] X 
+2018-07-10 17:22:19,926 INFO  [Log] X 
+2018-07-10 17:22:19,926 INFO  [Log] X 
+2018-07-10 17:23:25,763 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:23:25,763 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:23:25,763 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:23:25,763 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:23:25,763 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:23:28,742 INFO  [Log] New driver instantiated 
+2018-07-10 17:23:29,204 INFO  [Log] Excel sheet opened 
+2018-07-10 17:23:29,204 INFO  [Log] Read Excel sheet 
+2018-07-10 17:23:31,098 INFO  [Log] Web application launched successfully 
+2018-07-10 17:23:32,229 INFO  [Log] Registration button enabled 
+2018-07-10 17:23:32,229 INFO  [Log] Registration button Clicked 
+2018-07-10 17:23:32,232 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:23:32,460 INFO  [Log] Entered First Name 
+2018-07-10 17:23:32,606 INFO  [Log] Entered Last Name 
+2018-07-10 17:23:32,761 INFO  [Log] Entered Phone Number 
+2018-07-10 17:23:32,904 INFO  [Log] Entered User Mail 
+2018-07-10 17:23:33,032 INFO  [Log] Entered Address 
+2018-07-10 17:23:33,144 INFO  [Log] Entered Address2 
+2018-07-10 17:23:33,275 INFO  [Log] Entered City 
+2018-07-10 17:23:33,386 INFO  [Log] Entered State 
+2018-07-10 17:23:33,481 INFO  [Log] Entered Postal Code 
+2018-07-10 17:23:33,700 INFO  [Log] Select Country 
+2018-07-10 17:23:33,700 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:23:33,824 INFO  [Log] Entered User name 
+2018-07-10 17:23:33,920 INFO  [Log] Entered Password 
+2018-07-10 17:23:34,024 INFO  [Log] Entered Confirm password 
+2018-07-10 17:23:34,025 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:23:34,025 INFO  [Log] X 
+2018-07-10 17:23:34,025 INFO  [Log] X 
+2018-07-10 17:23:34,025 INFO  [Log] X 
+2018-07-10 17:23:34,025 INFO  [Log] X 
+2018-07-10 17:24:25,629 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:24:25,629 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:24:25,629 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:24:25,629 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:24:25,629 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:24:28,700 INFO  [Log] New driver instantiated 
+2018-07-10 17:24:29,321 INFO  [Log] Excel sheet opened 
+2018-07-10 17:24:29,321 INFO  [Log] Read Excel sheet 
+2018-07-10 17:24:31,230 INFO  [Log] Web application launched successfully 
+2018-07-10 17:24:32,356 INFO  [Log] Registration button enabled 
+2018-07-10 17:24:32,356 INFO  [Log] Registration button Clicked 
+2018-07-10 17:24:32,359 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:24:32,589 INFO  [Log] Entered First Name 
+2018-07-10 17:24:32,690 INFO  [Log] Entered Last Name 
+2018-07-10 17:24:32,826 INFO  [Log] Entered Phone Number 
+2018-07-10 17:24:32,980 INFO  [Log] Entered User Mail 
+2018-07-10 17:24:33,120 INFO  [Log] Entered Address 
+2018-07-10 17:24:33,245 INFO  [Log] Entered Address2 
+2018-07-10 17:24:33,371 INFO  [Log] Entered City 
+2018-07-10 17:24:33,493 INFO  [Log] Entered State 
+2018-07-10 17:24:33,598 INFO  [Log] Entered Postal Code 
+2018-07-10 17:24:33,835 INFO  [Log] Select Country 
+2018-07-10 17:24:33,835 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:24:33,989 INFO  [Log] Entered User name 
+2018-07-10 17:24:34,094 INFO  [Log] Entered Password 
+2018-07-10 17:24:34,205 INFO  [Log] Entered Confirm password 
+2018-07-10 17:24:34,205 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:24:34,206 INFO  [Log] X 
+2018-07-10 17:24:34,206 INFO  [Log] X 
+2018-07-10 17:24:34,206 INFO  [Log] X 
+2018-07-10 17:24:34,206 INFO  [Log] X 
+2018-07-10 17:28:00,230 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:28:00,230 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:28:00,230 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:28:00,230 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:28:00,230 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:28:03,148 INFO  [Log] New driver instantiated 
+2018-07-10 17:28:03,663 INFO  [Log] Excel sheet opened 
+2018-07-10 17:28:03,663 INFO  [Log] Read Excel sheet 
+2018-07-10 17:28:05,526 INFO  [Log] Web application launched successfully 
+2018-07-10 17:28:06,543 INFO  [Log] Registration button enabled 
+2018-07-10 17:28:06,544 INFO  [Log] Registration button Clicked 
+2018-07-10 17:28:06,546 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:28:06,681 INFO  [Log] Entered First Name 
+2018-07-10 17:28:06,757 INFO  [Log] Entered Last Name 
+2018-07-10 17:28:06,848 INFO  [Log] Entered Phone Number 
+2018-07-10 17:28:06,951 INFO  [Log] Entered User Mail 
+2018-07-10 17:28:07,048 INFO  [Log] Entered Address 
+2018-07-10 17:28:07,133 INFO  [Log] Entered Address2 
+2018-07-10 17:28:07,228 INFO  [Log] Entered City 
+2018-07-10 17:28:07,317 INFO  [Log] Entered State 
+2018-07-10 17:28:07,386 INFO  [Log] Entered Postal Code 
+2018-07-10 17:28:07,548 INFO  [Log] Select Country 
+2018-07-10 17:28:07,548 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:28:07,652 INFO  [Log] Entered User name 
+2018-07-10 17:28:07,724 INFO  [Log] Entered Password 
+2018-07-10 17:28:07,797 INFO  [Log] Entered Confirm password 
+2018-07-10 17:28:07,797 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:28:07,797 INFO  [Log] X 
+2018-07-10 17:28:07,797 INFO  [Log] X 
+2018-07-10 17:28:07,797 INFO  [Log] X 
+2018-07-10 17:28:07,797 INFO  [Log] X 
+2018-07-10 17:31:16,017 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:31:16,017 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:31:16,017 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:31:16,017 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:31:16,018 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:31:18,861 INFO  [Log] New driver instantiated 
+2018-07-10 17:31:19,466 INFO  [Log] Excel sheet opened 
+2018-07-10 17:31:19,466 INFO  [Log] Read Excel sheet 
+2018-07-10 17:31:21,469 INFO  [Log] Web application launched successfully 
+2018-07-10 17:31:22,502 INFO  [Log] Registration button enabled 
+2018-07-10 17:31:22,502 INFO  [Log] Registration button Clicked 
+2018-07-10 17:31:22,503 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:31:22,617 INFO  [Log] Entered First Name 
+2018-07-10 17:31:22,685 INFO  [Log] Entered Last Name 
+2018-07-10 17:31:22,777 INFO  [Log] Entered Phone Number 
+2018-07-10 17:31:22,885 INFO  [Log] Entered User Mail 
+2018-07-10 17:31:22,985 INFO  [Log] Entered Address 
+2018-07-10 17:31:23,067 INFO  [Log] Entered Address2 
+2018-07-10 17:31:23,163 INFO  [Log] Entered City 
+2018-07-10 17:31:23,248 INFO  [Log] Entered State 
+2018-07-10 17:31:23,321 INFO  [Log] Entered Postal Code 
+2018-07-10 17:31:23,481 INFO  [Log] Select Country 
+2018-07-10 17:31:23,481 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:31:23,578 INFO  [Log] Entered User name 
+2018-07-10 17:31:23,650 INFO  [Log] Entered Password 
+2018-07-10 17:31:23,722 INFO  [Log] Entered Confirm password 
+2018-07-10 17:31:23,722 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:31:23,722 INFO  [Log] X 
+2018-07-10 17:31:23,722 INFO  [Log] X 
+2018-07-10 17:31:23,722 INFO  [Log] X 
+2018-07-10 17:31:23,722 INFO  [Log] X 
+2018-07-10 17:41:21,200 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:41:21,200 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:41:21,200 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:41:21,200 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:41:21,200 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:41:23,976 INFO  [Log] New driver instantiated 
+2018-07-10 17:41:24,439 INFO  [Log] Excel sheet opened 
+2018-07-10 17:41:24,440 INFO  [Log] Read Excel sheet 
+2018-07-10 17:41:26,390 INFO  [Log] Web application launched successfully 
+2018-07-10 17:41:27,369 INFO  [Log] Registration button enabled 
+2018-07-10 17:41:27,369 INFO  [Log] Registration button Clicked 
+2018-07-10 17:41:27,373 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:41:27,494 INFO  [Log] Entered First Name 
+2018-07-10 17:41:27,569 INFO  [Log] Entered Last Name 
+2018-07-10 17:41:27,665 INFO  [Log] Entered Phone Number 
+2018-07-10 17:41:27,772 INFO  [Log] Entered User Mail 
+2018-07-10 17:41:27,860 INFO  [Log] Entered Address 
+2018-07-10 17:41:27,962 INFO  [Log] Entered Address2 
+2018-07-10 17:41:28,049 INFO  [Log] Entered City 
+2018-07-10 17:41:28,136 INFO  [Log] Entered State 
+2018-07-10 17:41:28,205 INFO  [Log] Entered Postal Code 
+2018-07-10 17:41:28,352 INFO  [Log] Select Country 
+2018-07-10 17:41:28,352 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:41:28,451 INFO  [Log] Entered User name 
+2018-07-10 17:41:28,520 INFO  [Log] Entered Password 
+2018-07-10 17:41:28,587 INFO  [Log] Entered Confirm password 
+2018-07-10 17:41:28,712 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:41:28,712 INFO  [Log] X 
+2018-07-10 17:41:28,712 INFO  [Log] X 
+2018-07-10 17:41:28,712 INFO  [Log] X 
+2018-07-10 17:41:28,712 INFO  [Log] X 
+2018-07-10 17:42:42,076 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 17:42:42,076 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:42:42,076 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CucumberExample       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 17:42:42,076 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:42:42,076 INFO  [Log] **************************************************************************************** 
+2018-07-10 17:42:44,880 INFO  [Log] New driver instantiated 
+2018-07-10 17:42:45,371 INFO  [Log] Excel sheet opened 
+2018-07-10 17:42:45,371 INFO  [Log] Read Excel sheet 
+2018-07-10 17:42:47,234 INFO  [Log] Web application launched successfully 
+2018-07-10 17:42:48,295 INFO  [Log] Registration button enabled 
+2018-07-10 17:42:48,295 INFO  [Log] Registration button Clicked 
+2018-07-10 17:42:48,296 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 17:42:48,401 INFO  [Log] Entered First Name 
+2018-07-10 17:42:48,471 INFO  [Log] Entered Last Name 
+2018-07-10 17:42:48,559 INFO  [Log] Entered Phone Number 
+2018-07-10 17:42:48,654 INFO  [Log] Entered User Mail 
+2018-07-10 17:42:48,739 INFO  [Log] Entered Address 
+2018-07-10 17:42:48,818 INFO  [Log] Entered Address2 
+2018-07-10 17:42:48,898 INFO  [Log] Entered City 
+2018-07-10 17:42:48,978 INFO  [Log] Entered State 
+2018-07-10 17:42:49,048 INFO  [Log] Entered Postal Code 
+2018-07-10 17:42:49,196 INFO  [Log] Select Country 
+2018-07-10 17:42:49,196 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 17:42:49,291 INFO  [Log] Entered User name 
+2018-07-10 17:42:49,365 INFO  [Log] Entered Password 
+2018-07-10 17:42:49,438 INFO  [Log] Entered Confirm password 
+2018-07-10 17:42:49,438 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 17:42:49,438 INFO  [Log] X 
+2018-07-10 17:42:49,438 INFO  [Log] X 
+2018-07-10 17:42:49,438 INFO  [Log] X 
+2018-07-10 17:42:49,439 INFO  [Log] X 
+2018-07-10 18:00:07,612 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:00:07,612 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:07,612 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:00:07,612 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:07,612 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:10,561 INFO  [Log] New driver instantiated 
+2018-07-10 18:00:11,153 INFO  [Log] Excel sheet opened 
+2018-07-10 18:00:11,153 INFO  [Log] Read Excel sheet 
+2018-07-10 18:00:13,083 INFO  [Log] Web application launched successfully 
+2018-07-10 18:00:14,033 INFO  [Log] Registration button enabled 
+2018-07-10 18:00:14,033 INFO  [Log] Registration button Clicked 
+2018-07-10 18:00:14,034 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:00:14,148 INFO  [Log] Entered First Name 
+2018-07-10 18:00:14,229 INFO  [Log] Entered Last Name 
+2018-07-10 18:00:14,320 INFO  [Log] Entered Phone Number 
+2018-07-10 18:00:14,421 INFO  [Log] Entered User Mail 
+2018-07-10 18:00:14,530 INFO  [Log] Entered Address 
+2018-07-10 18:00:14,613 INFO  [Log] Entered Address2 
+2018-07-10 18:00:14,693 INFO  [Log] Entered City 
+2018-07-10 18:00:14,780 INFO  [Log] Entered State 
+2018-07-10 18:00:14,856 INFO  [Log] Entered Postal Code 
+2018-07-10 18:00:15,021 INFO  [Log] Select Country 
+2018-07-10 18:00:15,021 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:00:15,115 INFO  [Log] Entered User name 
+2018-07-10 18:00:15,184 INFO  [Log] Entered Password 
+2018-07-10 18:00:15,262 INFO  [Log] Entered Confirm password 
+2018-07-10 18:00:15,262 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:00:15,262 INFO  [Log] X 
+2018-07-10 18:00:15,262 INFO  [Log] X 
+2018-07-10 18:00:15,262 INFO  [Log] X 
+2018-07-10 18:00:15,262 INFO  [Log] X 
+2018-07-10 18:00:15,279 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:00:15,279 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:15,279 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:00:15,279 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:15,279 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:00:16,061 INFO  [Log] Clicked on Signon 
+2018-07-10 18:00:16,145 INFO  [Log] Entered Username 
+2018-07-10 18:00:16,203 INFO  [Log] Entered Password 
+2018-07-10 18:00:18,059 INFO  [Log] Clicked on Submit 
+2018-07-10 18:00:18,060 INFO  [Log] User navigates to Home Page 
+2018-07-10 18:00:18,061 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:00:18,061 INFO  [Log] X 
+2018-07-10 18:00:18,061 INFO  [Log] X 
+2018-07-10 18:00:18,061 INFO  [Log] X 
+2018-07-10 18:00:18,061 INFO  [Log] X 
+2018-07-10 18:03:57,686 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:03:57,687 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:03:57,687 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:03:57,687 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:03:57,687 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:04:00,616 INFO  [Log] New driver instantiated 
+2018-07-10 18:04:01,224 INFO  [Log] Excel sheet opened 
+2018-07-10 18:04:01,225 INFO  [Log] Read Excel sheet 
+2018-07-10 18:04:03,238 INFO  [Log] Web application launched successfully 
+2018-07-10 18:04:04,206 INFO  [Log] Registration button enabled 
+2018-07-10 18:04:04,206 INFO  [Log] Registration button Clicked 
+2018-07-10 18:04:04,208 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:04:04,336 INFO  [Log] Entered First Name 
+2018-07-10 18:04:04,416 INFO  [Log] Entered Last Name 
+2018-07-10 18:04:04,512 INFO  [Log] Entered Phone Number 
+2018-07-10 18:04:04,617 INFO  [Log] Entered User Mail 
+2018-07-10 18:04:04,700 INFO  [Log] Entered Address 
+2018-07-10 18:04:04,792 INFO  [Log] Entered Address2 
+2018-07-10 18:04:04,877 INFO  [Log] Entered City 
+2018-07-10 18:04:04,962 INFO  [Log] Entered State 
+2018-07-10 18:04:05,034 INFO  [Log] Entered Postal Code 
+2018-07-10 18:04:05,190 INFO  [Log] Select Country 
+2018-07-10 18:04:05,190 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:04:05,302 INFO  [Log] Entered User name 
+2018-07-10 18:04:05,376 INFO  [Log] Entered Password 
+2018-07-10 18:04:05,454 INFO  [Log] Entered Confirm password 
+2018-07-10 18:04:05,454 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             Registration Process Completed             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:04:05,454 INFO  [Log] X 
+2018-07-10 18:04:05,454 INFO  [Log] X 
+2018-07-10 18:04:05,454 INFO  [Log] X 
+2018-07-10 18:04:05,454 INFO  [Log] X 
+2018-07-10 18:04:05,472 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:04:05,472 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:04:05,472 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:04:05,472 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:04:05,472 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:04:06,286 INFO  [Log] Clicked on Sign In 
+2018-07-10 18:04:06,371 INFO  [Log] Entered User Name 
+2018-07-10 18:04:06,433 INFO  [Log] Entered Password 
+2018-07-10 18:04:08,258 INFO  [Log] Clicked on Submit 
+2018-07-10 18:04:08,259 INFO  [Log] User navigates to Home Page 
+2018-07-10 18:04:08,260 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             Customer Sign in Process Completed             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:04:08,260 INFO  [Log] X 
+2018-07-10 18:04:08,260 INFO  [Log] X 
+2018-07-10 18:04:08,260 INFO  [Log] X 
+2018-07-10 18:04:08,260 INFO  [Log] X 
+2018-07-10 18:05:41,706 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:05:41,706 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:41,706 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:05:41,706 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:41,706 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:44,699 INFO  [Log] New driver instantiated 
+2018-07-10 18:05:45,344 INFO  [Log] Excel sheet opened 
+2018-07-10 18:05:45,344 INFO  [Log] Read Excel sheet 
+2018-07-10 18:05:47,868 INFO  [Log] Web application launched successfully 
+2018-07-10 18:05:49,874 INFO  [Log] Registration button enabled 
+2018-07-10 18:05:49,874 INFO  [Log] Registration button Clicked 
+2018-07-10 18:05:49,876 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:05:50,005 INFO  [Log] Entered First Name 
+2018-07-10 18:05:50,089 INFO  [Log] Entered Last Name 
+2018-07-10 18:05:50,191 INFO  [Log] Entered Phone Number 
+2018-07-10 18:05:50,302 INFO  [Log] Entered User Mail 
+2018-07-10 18:05:50,407 INFO  [Log] Entered Address 
+2018-07-10 18:05:50,501 INFO  [Log] Entered Address2 
+2018-07-10 18:05:50,584 INFO  [Log] Entered City 
+2018-07-10 18:05:50,665 INFO  [Log] Entered State 
+2018-07-10 18:05:50,739 INFO  [Log] Entered Postal Code 
+2018-07-10 18:05:50,896 INFO  [Log] Select Country 
+2018-07-10 18:05:50,896 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:05:51,003 INFO  [Log] Entered User name 
+2018-07-10 18:05:51,070 INFO  [Log] Entered Password 
+2018-07-10 18:05:51,142 INFO  [Log] Entered Confirm password 
+2018-07-10 18:05:51,142 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             Registration Process Completed             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:05:51,143 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX                 E--N--D                   XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:05:51,143 INFO  [Log] X 
+2018-07-10 18:05:51,143 INFO  [Log] X 
+2018-07-10 18:05:51,143 INFO  [Log] X 
+2018-07-10 18:05:51,143 INFO  [Log] X 
+2018-07-10 18:05:51,159 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:05:51,159 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:51,159 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:05:51,159 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:51,159 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:05:52,268 INFO  [Log] Clicked on Sign In 
+2018-07-10 18:05:52,355 INFO  [Log] Entered User Name 
+2018-07-10 18:05:52,413 INFO  [Log] Entered Password 
+2018-07-10 18:05:54,720 INFO  [Log] Clicked on Submit 
+2018-07-10 18:05:54,722 INFO  [Log] User navigates to Home Page 
+2018-07-10 18:05:54,722 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             Customer Sign in Process Completed             XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:05:54,722 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX                 E--N--D                   XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:05:54,722 INFO  [Log] X 
+2018-07-10 18:05:54,722 INFO  [Log] X 
+2018-07-10 18:05:54,722 INFO  [Log] X 
+2018-07-10 18:05:54,722 INFO  [Log] X 
+2018-07-10 18:06:42,812 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:06:42,813 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:42,813 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:06:42,813 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:42,813 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:45,660 INFO  [Log] New driver instantiated 
+2018-07-10 18:06:46,189 INFO  [Log] Excel sheet opened 
+2018-07-10 18:06:46,189 INFO  [Log] Read Excel sheet 
+2018-07-10 18:06:48,297 INFO  [Log] Web application launched successfully 
+2018-07-10 18:06:49,335 INFO  [Log] Registration button enabled 
+2018-07-10 18:06:49,336 INFO  [Log] Registration button Clicked 
+2018-07-10 18:06:49,337 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:06:49,460 INFO  [Log] Entered First Name 
+2018-07-10 18:06:49,537 INFO  [Log] Entered Last Name 
+2018-07-10 18:06:49,634 INFO  [Log] Entered Phone Number 
+2018-07-10 18:06:49,734 INFO  [Log] Entered User Mail 
+2018-07-10 18:06:49,828 INFO  [Log] Entered Address 
+2018-07-10 18:06:49,912 INFO  [Log] Entered Address2 
+2018-07-10 18:06:49,995 INFO  [Log] Entered City 
+2018-07-10 18:06:50,081 INFO  [Log] Entered State 
+2018-07-10 18:06:50,165 INFO  [Log] Entered Postal Code 
+2018-07-10 18:06:50,317 INFO  [Log] Select Country 
+2018-07-10 18:06:50,317 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:06:50,419 INFO  [Log] Entered User name 
+2018-07-10 18:06:50,486 INFO  [Log] Entered Password 
+2018-07-10 18:06:50,553 INFO  [Log] Entered Confirm password 
+2018-07-10 18:06:50,554 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:06:50,554 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX                 E--N--D                   XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:06:50,554 INFO  [Log] X 
+2018-07-10 18:06:50,554 INFO  [Log] X 
+2018-07-10 18:06:50,554 INFO  [Log] X 
+2018-07-10 18:06:50,554 INFO  [Log] X 
+2018-07-10 18:06:50,571 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:06:50,571 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:50,571 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:06:50,571 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:50,571 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:06:51,328 INFO  [Log] Clicked on Sign In 
+2018-07-10 18:06:51,421 INFO  [Log] Entered User Name 
+2018-07-10 18:06:51,480 INFO  [Log] Entered Password 
+2018-07-10 18:06:53,013 INFO  [Log] Clicked on Submit 
+2018-07-10 18:06:53,015 INFO  [Log] User navigates to Home Page 
+2018-07-10 18:06:53,015 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Customer Sign in Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:06:53,015 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX                 E--N--D                   XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:06:53,015 INFO  [Log] X 
+2018-07-10 18:06:53,015 INFO  [Log] X 
+2018-07-10 18:06:53,015 INFO  [Log] X 
+2018-07-10 18:06:53,015 INFO  [Log] X 
+2018-07-10 18:07:46,389 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:07:46,390 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:46,390 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:07:46,390 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:46,390 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:49,367 INFO  [Log] New driver instantiated 
+2018-07-10 18:07:49,936 INFO  [Log] Excel sheet opened 
+2018-07-10 18:07:49,936 INFO  [Log] Read Excel sheet 
+2018-07-10 18:07:51,775 INFO  [Log] Web application launched successfully 
+2018-07-10 18:07:53,015 INFO  [Log] Registration button enabled 
+2018-07-10 18:07:53,015 INFO  [Log] Registration button Clicked 
+2018-07-10 18:07:53,016 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:07:53,128 INFO  [Log] Entered First Name 
+2018-07-10 18:07:53,208 INFO  [Log] Entered Last Name 
+2018-07-10 18:07:53,297 INFO  [Log] Entered Phone Number 
+2018-07-10 18:07:53,407 INFO  [Log] Entered User Mail 
+2018-07-10 18:07:53,516 INFO  [Log] Entered Address 
+2018-07-10 18:07:53,598 INFO  [Log] Entered Address2 
+2018-07-10 18:07:53,689 INFO  [Log] Entered City 
+2018-07-10 18:07:53,778 INFO  [Log] Entered State 
+2018-07-10 18:07:53,856 INFO  [Log] Entered Postal Code 
+2018-07-10 18:07:54,008 INFO  [Log] Select Country 
+2018-07-10 18:07:54,008 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:07:54,106 INFO  [Log] Entered User name 
+2018-07-10 18:07:54,179 INFO  [Log] Entered Password 
+2018-07-10 18:07:54,250 INFO  [Log] Entered Confirm password 
+2018-07-10 18:07:54,250 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:07:54,250 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:07:54,250 INFO  [Log] X 
+2018-07-10 18:07:54,250 INFO  [Log] X 
+2018-07-10 18:07:54,250 INFO  [Log] X 
+2018-07-10 18:07:54,250 INFO  [Log] X 
+2018-07-10 18:07:54,268 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:07:54,268 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:54,268 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:07:54,268 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:54,268 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:07:55,393 INFO  [Log] Clicked on Sign In 
+2018-07-10 18:07:55,482 INFO  [Log] Entered User Name 
+2018-07-10 18:07:55,538 INFO  [Log] Entered Password 
+2018-07-10 18:07:57,614 INFO  [Log] Clicked on Submit 
+2018-07-10 18:07:57,615 INFO  [Log] User navigates to Home Page 
+2018-07-10 18:07:57,615 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Customer Sign in Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:07:57,615 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:07:57,615 INFO  [Log] X 
+2018-07-10 18:07:57,615 INFO  [Log] X 
+2018-07-10 18:07:57,615 INFO  [Log] X 
+2018-07-10 18:07:57,615 INFO  [Log] X 
+2018-07-10 18:14:51,776 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:14:51,776 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:14:51,776 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:14:51,776 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:14:51,776 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:14:54,653 INFO  [Log] New driver instantiated 
+2018-07-10 18:14:55,240 INFO  [Log] Excel sheet opened 
+2018-07-10 18:14:55,240 INFO  [Log] Read Excel sheet 
+2018-07-10 18:14:57,090 INFO  [Log] Web application launched successfully 
+2018-07-10 18:14:58,047 INFO  [Log] Registration button enabled 
+2018-07-10 18:14:58,047 INFO  [Log] Registration button Clicked 
+2018-07-10 18:14:58,048 INFO  [Log] Call Random Integer function to give row number 
+2018-07-10 18:14:58,167 INFO  [Log] Entered First Name 
+2018-07-10 18:14:58,250 INFO  [Log] Entered Last Name 
+2018-07-10 18:14:58,354 INFO  [Log] Entered Phone Number 
+2018-07-10 18:14:58,469 INFO  [Log] Entered User Mail 
+2018-07-10 18:14:58,580 INFO  [Log] Entered Address 
+2018-07-10 18:14:58,672 INFO  [Log] Entered Address2 
+2018-07-10 18:14:58,779 INFO  [Log] Entered City 
+2018-07-10 18:14:58,877 INFO  [Log] Entered State 
+2018-07-10 18:14:58,952 INFO  [Log] Entered Postal Code 
+2018-07-10 18:14:59,119 INFO  [Log] Select Country 
+2018-07-10 18:14:59,120 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-10 18:14:59,217 INFO  [Log] Entered User name 
+2018-07-10 18:14:59,287 INFO  [Log] Entered Password 
+2018-07-10 18:14:59,364 INFO  [Log] Entered Confirm password 
+2018-07-10 18:15:00,598 INFO  [Log] Clicked on Submit for Registration 
+2018-07-10 18:15:00,598 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:15:00,598 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-10 18:15:00,598 INFO  [Log] X 
+2018-07-10 18:15:00,598 INFO  [Log] X 
+2018-07-10 18:15:00,598 INFO  [Log] X 
+2018-07-10 18:15:00,598 INFO  [Log] X 
+2018-07-10 18:15:00,616 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-10 18:15:00,616 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:15:00,616 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-10 18:15:00,616 INFO  [Log] **************************************************************************************** 
+2018-07-10 18:15:00,616 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:20:36,270 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:20:36,306 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:20:36,306 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:20:36,306 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:20:36,306 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:20:40,672 INFO  [Log] New driver instantiated 
+2018-07-11 11:20:41,597 INFO  [Log] Excel sheet opened 
+2018-07-11 11:20:41,597 INFO  [Log] Read Excel sheet 
+2018-07-11 11:21:12,986 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:21:12,987 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:21:12,987 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:21:12,987 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:21:12,987 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:21:16,085 INFO  [Log] New driver instantiated 
+2018-07-11 11:21:16,570 INFO  [Log] Excel sheet opened 
+2018-07-11 11:21:16,570 INFO  [Log] Read Excel sheet 
+2018-07-11 11:22:17,329 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:22:17,329 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:22:17,329 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:22:17,329 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:22:17,329 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:23:42,012 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:23:42,015 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:23:42,015 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:23:42,015 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:23:42,015 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:23:45,507 INFO  [Log] New driver instantiated 
+2018-07-11 11:23:46,711 INFO  [Log] Excel sheet opened 
+2018-07-11 11:23:46,711 INFO  [Log] Read Excel sheet 
+2018-07-11 11:24:08,962 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:24:08,963 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:24:08,963 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:24:08,963 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:24:08,963 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:24:56,932 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:24:56,932 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:24:56,932 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:24:56,932 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:24:56,932 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:25:00,109 INFO  [Log] New driver instantiated 
+2018-07-11 11:25:00,987 INFO  [Log] Excel sheet opened 
+2018-07-11 11:25:00,987 INFO  [Log] Read Excel sheet 
+2018-07-11 11:26:05,778 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:26:05,778 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:26:05,778 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:26:05,778 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:26:05,778 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:32:33,838 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:32:33,838 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:32:33,838 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:32:33,838 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:32:33,838 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:32:37,351 INFO  [Log] New driver instantiated 
+2018-07-11 11:32:38,547 INFO  [Log] Excel sheet opened 
+2018-07-11 11:32:38,547 INFO  [Log] Read Excel sheet 
+2018-07-11 11:52:36,144 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:52:36,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:52:36,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:52:36,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:52:36,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:52:39,863 INFO  [Log] New driver instantiated 
+2018-07-11 11:52:40,593 INFO  [Log] Excel sheet opened 
+2018-07-11 11:52:40,593 INFO  [Log] Read Excel sheet 
+2018-07-11 11:55:00,503 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:55:00,503 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:55:00,503 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:55:00,503 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:55:00,503 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:55:03,948 INFO  [Log] New driver instantiated 
+2018-07-11 11:55:04,742 INFO  [Log] Excel sheet opened 
+2018-07-11 11:55:04,742 INFO  [Log] Read Excel sheet 
+2018-07-11 11:55:06,670 INFO  [Log] Web application launched successfully 
+2018-07-11 11:55:07,636 INFO  [Log] Registration button enabled 
+2018-07-11 11:55:07,636 INFO  [Log] Registration button Clicked 
+2018-07-11 11:55:07,638 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 11:55:07,856 INFO  [Log] Entered First Name 
+2018-07-11 11:55:07,973 INFO  [Log] Entered Last Name 
+2018-07-11 11:55:08,100 INFO  [Log] Entered Phone Number 
+2018-07-11 11:55:08,237 INFO  [Log] Entered User Mail 
+2018-07-11 11:55:08,352 INFO  [Log] Entered Address 
+2018-07-11 11:55:08,459 INFO  [Log] Entered Address2 
+2018-07-11 11:55:08,564 INFO  [Log] Entered City 
+2018-07-11 11:55:08,667 INFO  [Log] Entered State 
+2018-07-11 11:55:08,755 INFO  [Log] Entered Postal Code 
+2018-07-11 11:55:09,032 INFO  [Log] Select Country 
+2018-07-11 11:55:09,032 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 11:55:09,215 INFO  [Log] Entered User name 
+2018-07-11 11:55:09,352 INFO  [Log] Entered Password 
+2018-07-11 11:55:09,490 INFO  [Log] Entered Confirm password 
+2018-07-11 11:56:01,872 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 11:56:07,448 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 11:56:08,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 11:56:08,303 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 11:56:08,307 INFO  [Log] X 
+2018-07-11 11:56:08,312 INFO  [Log] X 
+2018-07-11 11:56:08,316 INFO  [Log] X 
+2018-07-11 11:56:08,322 INFO  [Log] X 
+2018-07-11 11:56:12,756 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 11:56:12,756 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:56:12,757 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 11:56:12,757 INFO  [Log] **************************************************************************************** 
+2018-07-11 11:56:12,757 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:06:02,753 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:06:02,753 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:06:02,753 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:06:02,754 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:06:02,754 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:06:06,277 INFO  [Log] New driver instantiated 
+2018-07-11 12:06:06,977 INFO  [Log] Excel sheet opened 
+2018-07-11 12:06:06,977 INFO  [Log] Read Excel sheet 
+2018-07-11 12:07:04,879 INFO  [Log] Web application launched successfully 
+2018-07-11 12:07:05,928 INFO  [Log] Registration button enabled 
+2018-07-11 12:07:05,928 INFO  [Log] Registration button Clicked 
+2018-07-11 12:07:05,928 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 12:07:06,180 INFO  [Log] Entered First Name 
+2018-07-11 12:07:06,309 INFO  [Log] Entered Last Name 
+2018-07-11 12:07:06,484 INFO  [Log] Entered Phone Number 
+2018-07-11 12:07:06,670 INFO  [Log] Entered User Mail 
+2018-07-11 12:07:06,837 INFO  [Log] Entered Address 
+2018-07-11 12:07:06,984 INFO  [Log] Entered Address2 
+2018-07-11 12:07:07,139 INFO  [Log] Entered City 
+2018-07-11 12:07:07,296 INFO  [Log] Entered State 
+2018-07-11 12:07:07,419 INFO  [Log] Entered Postal Code 
+2018-07-11 12:07:07,673 INFO  [Log] Select Country 
+2018-07-11 12:07:07,673 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 12:07:07,821 INFO  [Log] Entered User name 
+2018-07-11 12:07:07,924 INFO  [Log] Entered Password 
+2018-07-11 12:07:08,013 INFO  [Log] Entered Confirm password 
+2018-07-11 12:07:11,891 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 12:07:33,222 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 12:07:33,223 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:07:33,223 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:07:33,223 INFO  [Log] X 
+2018-07-11 12:07:33,223 INFO  [Log] X 
+2018-07-11 12:07:33,223 INFO  [Log] X 
+2018-07-11 12:07:33,223 INFO  [Log] X 
+2018-07-11 12:07:33,279 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:07:33,280 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:07:33,280 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:07:33,280 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:07:33,280 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:07:34,303 INFO  [Log] Clicked on Sign In 
+2018-07-11 12:07:34,513 INFO  [Log] Entered User Name 
+2018-07-11 12:07:34,664 INFO  [Log] Entered Password 
+2018-07-11 12:09:03,076 INFO  [Log] Clicked on Submit 
+2018-07-11 12:09:03,168 INFO  [Log] User Successfully navigates to Home Page 
+2018-07-11 12:09:03,168 INFO  [Log] User Verfifes the Home Page text for Flight Details 
+2018-07-11 12:09:03,228 INFO  [Log] User Successfully verifies the Profile text in Home Page 
+2018-07-11 12:11:23,795 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Customer Sign in Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:11:23,803 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:11:23,811 INFO  [Log] X 
+2018-07-11 12:11:23,815 INFO  [Log] X 
+2018-07-11 12:11:23,817 INFO  [Log] X 
+2018-07-11 12:11:23,817 INFO  [Log] X 
+2018-07-11 12:15:01,241 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:15:01,242 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:15:01,242 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:15:01,242 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:15:01,242 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:15:04,380 INFO  [Log] New driver instantiated 
+2018-07-11 12:15:04,895 INFO  [Log] Excel sheet opened 
+2018-07-11 12:15:04,895 INFO  [Log] Read Excel sheet 
+2018-07-11 12:15:50,197 INFO  [Log] Web application launched successfully 
+2018-07-11 12:15:50,274 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:15:50,274 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:15:50,274 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:15:50,274 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:15:50,274 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:16:00,897 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:16:00,897 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:16:00,897 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:16:00,897 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:16:00,897 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:16:03,761 INFO  [Log] New driver instantiated 
+2018-07-11 12:16:04,214 INFO  [Log] Excel sheet opened 
+2018-07-11 12:16:04,214 INFO  [Log] Read Excel sheet 
+2018-07-11 12:18:03,681 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:18:03,681 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:18:03,681 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:18:03,681 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:18:03,681 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:44:02,680 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:44:02,680 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:44:02,680 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:44:02,680 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:44:02,680 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:44:05,657 INFO  [Log] New driver instantiated 
+2018-07-11 12:44:06,459 INFO  [Log] Excel sheet opened 
+2018-07-11 12:44:06,459 INFO  [Log] Read Excel sheet 
+2018-07-11 12:44:24,298 INFO  [Log] Web application launched successfully 
+2018-07-11 12:44:25,522 INFO  [Log] Registration button enabled 
+2018-07-11 12:44:25,522 INFO  [Log] Registration button Clicked 
+2018-07-11 12:44:25,526 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 12:44:25,870 INFO  [Log] Entered First Name 
+2018-07-11 12:44:26,063 INFO  [Log] Entered Last Name 
+2018-07-11 12:44:26,273 INFO  [Log] Entered Phone Number 
+2018-07-11 12:44:26,515 INFO  [Log] Entered User Mail 
+2018-07-11 12:44:26,741 INFO  [Log] Entered Address 
+2018-07-11 12:44:26,950 INFO  [Log] Entered Address2 
+2018-07-11 12:44:27,125 INFO  [Log] Entered City 
+2018-07-11 12:44:27,275 INFO  [Log] Entered State 
+2018-07-11 12:44:27,401 INFO  [Log] Entered Postal Code 
+2018-07-11 12:44:27,691 INFO  [Log] Select Country 
+2018-07-11 12:44:27,691 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 12:44:27,870 INFO  [Log] Entered User name 
+2018-07-11 12:44:28,000 INFO  [Log] Entered Password 
+2018-07-11 12:44:28,128 INFO  [Log] Entered Confirm password 
+2018-07-11 12:47:48,879 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 12:47:50,269 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 12:47:50,269 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:47:50,269 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:47:50,269 INFO  [Log] X 
+2018-07-11 12:47:50,269 INFO  [Log] X 
+2018-07-11 12:47:50,270 INFO  [Log] X 
+2018-07-11 12:47:50,270 INFO  [Log] X 
+2018-07-11 12:47:50,330 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 12:47:50,330 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:47:50,330 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 12:47:50,330 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:47:50,331 INFO  [Log] **************************************************************************************** 
+2018-07-11 12:47:51,145 INFO  [Log] Clicked on Sign In 
+2018-07-11 12:47:51,411 INFO  [Log] Entered User Name 
+2018-07-11 12:47:51,484 INFO  [Log] Entered Password 
+2018-07-11 12:52:15,658 INFO  [Log] Clicked on Submit 
+2018-07-11 12:52:15,758 INFO  [Log] User Successfully navigates to Home Page 
+2018-07-11 12:52:15,758 INFO  [Log] User Verfifies the Home Page text for Flight Details 
+2018-07-11 12:52:15,846 INFO  [Log] User Successfully verifies the Profile text in Home Page 
+2018-07-11 12:52:15,941 INFO  [Log] User Successfully verifies the SignOff text in Home Page 
+2018-07-11 12:52:17,374 INFO  [Log] User Successfully Sign out from the New Merccury Tours 
+2018-07-11 12:52:17,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Customer Sign In and Sign Out Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:52:17,374 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 12:52:17,375 INFO  [Log] X 
+2018-07-11 12:52:17,375 INFO  [Log] X 
+2018-07-11 12:52:17,375 INFO  [Log] X 
+2018-07-11 12:52:17,375 INFO  [Log] X 
+2018-07-11 13:21:25,571 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:21:25,572 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:21:25,572 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:21:25,572 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:21:25,572 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:21:28,664 INFO  [Log] New driver instantiated 
+2018-07-11 13:21:29,876 INFO  [Log] Excel sheet opened 
+2018-07-11 13:21:29,876 INFO  [Log] Read Excel sheet 
+2018-07-11 13:21:32,055 INFO  [Log] Web application launched successfully 
+2018-07-11 13:21:33,212 INFO  [Log] Registration button enabled 
+2018-07-11 13:21:33,212 INFO  [Log] Registration button Clicked 
+2018-07-11 13:21:33,214 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 13:21:33,460 INFO  [Log] Entered First Name 
+2018-07-11 13:21:33,589 INFO  [Log] Entered Last Name 
+2018-07-11 13:21:33,748 INFO  [Log] Entered Phone Number 
+2018-07-11 13:21:33,927 INFO  [Log] Entered User Mail 
+2018-07-11 13:21:34,093 INFO  [Log] Entered Address 
+2018-07-11 13:21:34,248 INFO  [Log] Entered Address2 
+2018-07-11 13:21:34,401 INFO  [Log] Entered City 
+2018-07-11 13:21:34,547 INFO  [Log] Entered State 
+2018-07-11 13:21:34,680 INFO  [Log] Entered Postal Code 
+2018-07-11 13:21:34,964 INFO  [Log] Select Country 
+2018-07-11 13:21:34,964 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 13:21:35,133 INFO  [Log] Entered User name 
+2018-07-11 13:21:35,225 INFO  [Log] Entered Password 
+2018-07-11 13:21:35,317 INFO  [Log] Entered Confirm password 
+2018-07-11 13:21:37,256 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 13:21:38,705 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 13:21:38,706 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:21:38,706 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:21:38,706 INFO  [Log] X 
+2018-07-11 13:21:38,706 INFO  [Log] X 
+2018-07-11 13:21:38,706 INFO  [Log] X 
+2018-07-11 13:21:38,706 INFO  [Log] X 
+2018-07-11 13:26:31,872 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:26:31,872 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:26:31,872 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:26:31,872 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:26:31,872 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:26:34,944 INFO  [Log] New driver instantiated 
+2018-07-11 13:26:35,540 INFO  [Log] Excel sheet opened 
+2018-07-11 13:26:35,540 INFO  [Log] Read Excel sheet 
+2018-07-11 13:26:37,739 INFO  [Log] Web application launched successfully 
+2018-07-11 13:26:39,019 INFO  [Log] Registration button enabled 
+2018-07-11 13:26:39,019 INFO  [Log] Registration button Clicked 
+2018-07-11 13:26:39,028 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 13:26:39,315 INFO  [Log] Entered First Name 
+2018-07-11 13:26:39,461 INFO  [Log] Entered Last Name 
+2018-07-11 13:26:39,628 INFO  [Log] Entered Phone Number 
+2018-07-11 13:26:39,822 INFO  [Log] Entered User Mail 
+2018-07-11 13:26:39,983 INFO  [Log] Entered Address 
+2018-07-11 13:26:40,162 INFO  [Log] Entered Address2 
+2018-07-11 13:26:40,315 INFO  [Log] Entered City 
+2018-07-11 13:26:40,407 INFO  [Log] Entered State 
+2018-07-11 13:26:40,481 INFO  [Log] Entered Postal Code 
+2018-07-11 13:26:40,670 INFO  [Log] Select Country 
+2018-07-11 13:26:40,670 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 13:26:40,775 INFO  [Log] Entered User name 
+2018-07-11 13:26:40,852 INFO  [Log] Entered Password 
+2018-07-11 13:26:40,942 INFO  [Log] Entered Confirm password 
+2018-07-11 13:29:53,141 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 13:29:54,999 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 13:29:54,999 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:29:54,999 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:29:55,000 INFO  [Log] X 
+2018-07-11 13:29:55,000 INFO  [Log] X 
+2018-07-11 13:29:55,000 INFO  [Log] X 
+2018-07-11 13:29:55,000 INFO  [Log] X 
+2018-07-11 13:29:55,032 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:29:55,032 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:29:55,033 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:29:55,033 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:29:55,033 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:29:55,787 INFO  [Log] Clicked on Sign In 
+2018-07-11 13:29:55,887 INFO  [Log] Entered User Name 
+2018-07-11 13:29:55,951 INFO  [Log] Entered Password 
+2018-07-11 13:30:04,911 INFO  [Log] Clicked on Submit 
+2018-07-11 13:30:04,952 INFO  [Log] User Successfully navigates to Home Page 
+2018-07-11 13:30:04,952 INFO  [Log] User Verfifies the Home Page text for Flight Details 
+2018-07-11 13:30:04,987 INFO  [Log] User Successfully verifies the Profile text in Home Page 
+2018-07-11 13:30:05,018 INFO  [Log] User Successfully verifies the SignOff text in Home Page 
+2018-07-11 13:30:06,043 INFO  [Log] User Successfully Sign out from the New Merccury Tours 
+2018-07-11 13:30:06,043 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Customer Sign In and Sign Out Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:30:06,043 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:30:06,043 INFO  [Log] X 
+2018-07-11 13:30:06,043 INFO  [Log] X 
+2018-07-11 13:30:06,043 INFO  [Log] X 
+2018-07-11 13:30:06,043 INFO  [Log] X 
+2018-07-11 13:48:20,002 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:48:20,002 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:20,002 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:48:20,002 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:20,002 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:20,030 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:48:20,030 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:20,030 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:48:20,030 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:20,030 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:48:22,832 INFO  [Log] New driver instantiated 
+2018-07-11 13:48:23,285 INFO  [Log] Excel sheet opened 
+2018-07-11 13:48:23,285 INFO  [Log] Read Excel sheet 
+2018-07-11 13:48:25,389 INFO  [Log] Web application launched successfully 
+2018-07-11 13:48:26,054 INFO  [Log] Registration button enabled 
+2018-07-11 13:48:26,054 INFO  [Log] Registration button Clicked 
+2018-07-11 13:48:26,056 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 13:57:27,142 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:57:27,142 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:27,142 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:57:27,142 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:27,142 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:27,173 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:57:27,173 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:27,173 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:57:27,173 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:27,173 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:39,597 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 13:57:39,597 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:39,597 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 13:57:39,597 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:39,597 INFO  [Log] **************************************************************************************** 
+2018-07-11 13:57:42,454 INFO  [Log] New driver instantiated 
+2018-07-11 13:57:42,984 INFO  [Log] Excel sheet opened 
+2018-07-11 13:57:42,984 INFO  [Log] Read Excel sheet 
+2018-07-11 13:57:44,834 INFO  [Log] Web application launched successfully 
+2018-07-11 13:57:45,804 INFO  [Log] Registration button enabled 
+2018-07-11 13:57:45,804 INFO  [Log] Registration button Clicked 
+2018-07-11 13:57:45,807 INFO  [Log] Call Random Integer function to give row number 
+2018-07-11 13:57:45,961 INFO  [Log] Entered First Name 
+2018-07-11 13:57:46,033 INFO  [Log] Entered Last Name 
+2018-07-11 13:57:46,116 INFO  [Log] Entered Phone Number 
+2018-07-11 13:57:46,225 INFO  [Log] Entered User Mail 
+2018-07-11 13:57:46,308 INFO  [Log] Entered Address 
+2018-07-11 13:57:46,381 INFO  [Log] Entered Address2 
+2018-07-11 13:57:46,460 INFO  [Log] Entered City 
+2018-07-11 13:57:46,537 INFO  [Log] Entered State 
+2018-07-11 13:57:46,606 INFO  [Log] Entered Postal Code 
+2018-07-11 13:57:46,776 INFO  [Log] Select Country 
+2018-07-11 13:57:46,776 INFO  [Log] Call Random Integer function to give random number for Username 
+2018-07-11 13:57:46,882 INFO  [Log] Entered User name 
+2018-07-11 13:57:46,946 INFO  [Log] Entered Password 
+2018-07-11 13:57:47,013 INFO  [Log] Entered Confirm password 
+2018-07-11 13:58:00,349 INFO  [Log] Clicked on Submit for Registration 
+2018-07-11 13:58:01,575 INFO  [Log] Clicked on SignOff in Home Page 
+2018-07-11 13:58:01,575 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX         Registration Process Completed          XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:58:01,576 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX            ----E--N--D----              XXXXXXXXXXXXXXXXXXXXXX 
+2018-07-11 13:58:01,576 INFO  [Log] X 
+2018-07-11 13:58:01,576 INFO  [Log] X 
+2018-07-11 13:58:01,576 INFO  [Log] X 
+2018-07-11 13:58:01,576 INFO  [Log] X 
+2018-07-11 14:00:21,110 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 14:00:21,110 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:00:21,110 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              CustomerLoginStepDefinition       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 14:00:21,110 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:00:21,110 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:00:21,144 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 14:00:21,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:00:21,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 14:00:21,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:00:21,144 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:07:08,621 INFO  [Log] *********************        Test Case Started Execution     *************************** 
+2018-07-11 14:07:08,622 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:07:08,622 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              RegistrationStepDefiniton       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-07-11 14:07:08,622 INFO  [Log] **************************************************************************************** 
+2018-07-11 14:07:08,622 INFO  [Log] **************************************************************************************** 
